@@ -75,6 +75,6 @@ gh repo create project-folder --public --source=. --remote=origin --push
     ```sh
     git push -u origin main
     ```
-==Note==: Instead of manually creating a repo in GitHub + copying the URL + adding remote + pushing, this one command automates it.
+**Note:** Instead of manually creating a repo in GitHub + copying the URL + adding remote + pushing, this one command automates it.
 
 **`Difficulty: ⭐ Beginner`**
