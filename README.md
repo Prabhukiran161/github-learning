@@ -1,12 +1,11 @@
 # 🚀 GitHub Learning Journey
 
-Welcome to my **GitHub Learning Journey** repository!  
-This project is a personal log of everything I learn about **GitHub commands, workflows, and best practices** — structured day by day.  
-
-I believe the **fastest and smoothest way to learn GitHub** is by practicing **CLI commands** rather than relying only on the GitHub Desktop or GUI.  
-Most real-world scenarios (like deploying projects on cloud servers) involve only the **terminal**, so being comfortable with commands is a must.  
-
-This repo is designed not only to help me learn and keep track of my progress but also to serve as a **clear reference** for anyone else who wants to learn GitHub step by step.  
+- 📒 This project is my **personal log** of learning GitHub step by step.
+- 🛠️ Focus is on **GitHub CLI commands**, not just the GUI.
+- ⚡ CLI is **faster, smoother, and practical** for real-world workflows.
+- ☁️ Most cloud servers only allow **terminal access**, so CLI skills are essential.
+- 📚 The repo is structured **day by day** with one new topic/command each day.
+- 🔗 Main README links to **detailed files** with examples, explanations, and variations.
 
 ---
 
@@ -14,11 +13,7 @@ This repo is designed not only to help me learn and keep track of my progress bu
 
 | Day | Topic | Link |
 |-----|-------|------|
-| 1   | Create a GitHub Repository | [View Details](day-01-create-repo.md) |
-| 2   | Clone a GitHub Repository | [View Details](day-02-clone-repo.md) |
-| 3   | Commit and Push Changes | [View Details](day-03-commit-push.md) |
-| 4   | Branching and Merging | [View Details](day-04-branching.md) |
-| 5   | Working with Pull Requests | [View Details](day-05-pull-requests.md) |
+| 1   | # Create a GitHub Repo and Commit | [View Details](days/day-01.md) |
 
 *(I will keep adding more days as I learn.)*
 
