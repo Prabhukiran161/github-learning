@@ -1,3 +1,4 @@
-theme: jekyll-theme-minimal
+theme: jekyll-theme-cayman
 title: GitHub Learning Journey
 description: A day-by-day guide to mastering GitHub.
+show_downloads: false 
