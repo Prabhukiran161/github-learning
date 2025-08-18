@@ -1,5 +1,5 @@
 # How To Update Your Local Repo With The Latest Changes
----
+
 **Usecase :** When your local repo is behind the remote repo , and you want to update it with the latest commits before continuing your work.
 **Example :** 
 - Remote repo (origin/master) = 8 commits
@@ -9,7 +9,7 @@
 Now if you try to continue work locally without updating, you risk:
 - Missing bug fixes/features others pushed.
 - Merge conflicts later when you push.
----
+
 ## Two Ways To Update It 
 🔹**1. Git Fetch + Merge**
 ```sh
@@ -31,6 +31,7 @@ It merges the commits from remote’s master branch (`origin/master`) into your 
 
 ![merge output](../assets/day-02-merge.png)
 
+---
 **🔹2. Git Pull**
 ```sh
 git pull origin master
