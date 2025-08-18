@@ -13,7 +13,8 @@
 
 | Day | Topic | Link |
 |-----|-------|------|
-| 1   | # Create a GitHub Repo and Commit | [View Details](days/day-01.md) |
+| 1   | Create a GitHub Repo and Commit | [View Details](days/day-01.md) |
+| 2   | How To Update Your Local Repo With The Latest Changes | [View Details](days/day-02.md) |
 
 *(I will keep adding more days as I learn.)*
 
