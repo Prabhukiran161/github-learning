@@ -15,6 +15,7 @@
 |-----|-------|------|
 | 1   | Create a GitHub Repo and Commit | [View Details](days/day-01.md) |
 | 2   | How To Update Your Local Repo With The Latest Changes | [View Details](days/day-02.md) |
+| 3   | How To Fork a Repo & Create a Branch  | [View Details](days/day-03.md) |
 
 *(I will keep adding more days as I learn.)*
 
